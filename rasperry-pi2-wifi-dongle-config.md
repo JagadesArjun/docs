@@ -50,3 +50,8 @@
     ![# Example static IP configuration](https://github.com/JagadesArjun/docs/assets/13730312/e0bd010b-517f-43c4-bb65-cad3d1692202)
 
 - Run `sudo reboot` to reboot the system and run `hostname -I` to check ip
+
+
+### References
+- https://www.youtube.com/watch?v=oM2kAnITNyE
+- https://phoenixnap.com/kb/raspberry-pi-static-ip
